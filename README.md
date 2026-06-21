@@ -27,7 +27,7 @@ Competitive robotics strategy and teamwork
 
 Delivered By
 
-Meshal — Team Lead, Aquadrag (DRAG SA), KAU
+Meshal — Aquadrag (DRAG SA), KAU
 
 Final-year Electrical & Computer Engineering student
 
